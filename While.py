@@ -210,7 +210,5 @@ while i > 1:
     i -= 1
 print(fatorial)
 
-#Questão 27: Crie um programa que peça ao usuário uma frase e conte quantas vogais ela possui usando while.
-#Questão 28: Faça um programa que peça números ao usuário até que a soma deles seja maior que 50.
-#Questão 29: Escreva um programa que peça 5 idades e calcule a média usando while.
-#Questão 30: Crie um programa que peça ao usuário números até que ele digite fim e depois mostre todos os números digitados.
+
+
